@@ -1,7 +1,7 @@
-#  **Project Description** 
+#  **Dimension** 
 
 
-## Quality Control by Python
+## Project Description
 
 
 This package is to calcuate quality statistics, like Cpk, Ppk by Python
