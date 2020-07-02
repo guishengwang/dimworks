@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="dimworks", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Guisheng Wang",
     author_email="guisheng.wang66@gmail.com",
     description="Calculate statics for manufacturing quality control",

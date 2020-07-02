@@ -1,0 +1,8 @@
+README.md
+setup.py
+dimworks/__init__.py
+dimworks/stat.py
+dimworks.egg-info/PKG-INFO
+dimworks.egg-info/SOURCES.txt
+dimworks.egg-info/dependency_links.txt
+dimworks.egg-info/top_level.txt
